@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Picpick</string>
+    <string name="app_logo">App Logo</string>
+    <string name="home_button">Home</string>
+</resources>
