@@ -29,3 +29,21 @@ An Android quiz application developed using Java in Android Studio. The app chal
 * gradle/ – Gradle configuration files
 * build.gradle.kts – Project build configuration
 * settings.gradle.kts – Project settings
+
+## Screenshots
+
+### Login Screen
+![Splash Screen](screenshots/piclog.jpg)
+
+### Levels Screen
+![Login](screenshots/levels.jpg)
+
+### Quiz Screen
+![quiz](screenshots/choose.jpg)
+
+### Score Screen
+![score](screenshots/completed.jpg)
+
+### All Levels Completed Screen
+![All Levels Completed](screenshots/alls.jpg)
+
